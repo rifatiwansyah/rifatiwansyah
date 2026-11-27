@@ -2,37 +2,61 @@
 
 > *"Mendengar sebelum menilai. Memahami sebelum merancang solusi."*
 
-Saya seorang pelajar di Kota Malang yang menaruh minat mendalam pada **Sosiologi Terapan**, **Kebijakan Publik Warga**, dan **Metodologi Observasi Lapangan**. Saat ini saya sedang membangun fondasi portofolio riset dan pengarsipan publik menuju studi sarjana (S1) Kebijakan Publik.
+Saya pelajar dari Malang, Indonesia, yang tertarik pada **sosiologi terapan**, **kebijakan publik berbasis warga**, dan **metodologi observasi lapangan**. Di sini saya mengarsipkan catatan riset dan proses belajar saya secara terbuka, supaya bisa dibaca, dikritik, dan diperbaiki.
+
+**Tautan utama:** 🌐 [rifatiwansyah.lovable.app](https://rifatiwansyah.lovable.app)
 
 ---
 
-### 🏛️ Fokus Minat & Studi Lapangan
-- 🚍 **Transportasi & Mobilitas Perkotaan:** Dinamika sosial angkutan kota (angkot) Malang, pengalaman mobilitas warga lansia dan pelajar, serta inklusivitas ruang publik.
-- 👥 **Sosiologi Ruang Kota:** Interaksi komunitas warga, pasar tradisional, dan adaptasi sosial di tengah modernisasi daerah.
-- 📊 **Etika Riset Terbuka:** Transparansi instrumen observasi, perlindungan identitas narasumber (anonimitas), dan keterbukaan data kualitatif.
+### 🏛️ Fokus Minat
+- 🚍 **Transportasi dan mobilitas kota:** dinamika sosial angkutan kota (angkot) Malang, pengalaman mobilitas warga lansia dan pelajar, serta inklusivitas ruang publik.
+- 👥 **Sosiologi ruang kota:** interaksi komunitas warga, pasar tradisional, dan adaptasi sosial di tengah modernisasi daerah.
+- 📊 **Etika riset terbuka:** transparansi instrumen observasi, perlindungan identitas narasumber, dan keterbukaan data kualitatif.
 
 ---
 
-### 🌐 Portofolio & Catatan Terpublikasi
-- 📖 **Website Portofolio:** [rifatiwansyah.lovable.app](https://rifatiwansyah.lovable.app)
-- 📝 **Studi Kasus Utama:** *Dilema Jalur Mikro: Bertahan di Balik Kemudi Angkot Malang*
-- 📄 **Ringkasan Catatan Lapangan:** Tersedia untuk ditinjau akademisi dan komite beasiswa melalui situs utama.
+### 📝 Karya Utama
+**Dilema Jalur Mikro: Bertahan di Balik Kemudi Angkot Malang**
+Studi kasus tentang bagaimana pengemudi angkot di Malang bertahan di tengah perubahan pola mobilitas kota.
+
+- 🔎 **Pertanyaan riset:** [tulis satu kalimat pertanyaan utama studi kasus ini]
+- 💡 **Temuan utama:** [tulis satu temuan paling menarik dalam satu atau dua kalimat]
+- 📖 **Baca selengkapnya:** [tautkan langsung ke halaman studi kasus di situs portofolio]
+- 🗓️ **Terakhir diperbarui:** [bulan dan tahun]
 
 ---
 
-### 🗺️ Rencana Pengembangan Akademik (2026 – 2029)
-- **2026 (Kelas 9):** Fondasi pengarsipan catatan lapangan dan etika wawancara warga.
-- **2027 (Kelas 10):** Komparasi kebijakan mobilitas perkotaan di Jawa Timur.
-- **2028 (Kelas 11):** Penguatan portofolio kepemimpinan pemuda dan riset kebijakan terapan.
-- **2029 (Kelas 12):** Pengajuan aplikasi beasiswa jalur non-STEM (Australia / Malaysia SHARE).
+### 🧭 Metode dan Etika
+Riset saya mengikuti prinsip berikut:
+- Wawancara dan observasi dilakukan dengan **pendampingan orang dewasa**.
+- Narasumber mendapat penjelasan tujuan riset dan memberi **persetujuan** sebelum berbicara.
+- **Tidak ada** nama, wajah, plat nomor, atau lokasi spesifik narasumber yang dipublikasikan.
+- Instrumen observasi dibuka agar bisa ditinjau, sementara data pribadi narasumber tetap dirahasiakan.
+- Kesalahan dan keterbatasan riset dicatat secara terbuka.
 
 ---
 
-### 📬 Kontak & Kolaborasi Belajar
-- **Surel:** [rifatiwansyah@gmail.com](mailto:rifatiwansyah@gmail.com) *(didampingi orang tua)*
-- **Basis:** Kota Malang, Jawa Timur, Indonesia
+### 🗺️ Arah Pengembangan
+- **Tahap 1:** Fondasi pengarsipan catatan lapangan dan etika wawancara warga.
+- **Tahap 2:** Komparasi kebijakan mobilitas perkotaan di Jawa Timur.
+- **Tahap 3:** Penguatan portofolio kepemimpinan pemuda dan riset kebijakan terapan.
+- **Tahap 4:** Eksplorasi pendidikan lanjutan di bidang kebijakan publik dan ilmu sosial, di dalam dan luar negeri.
 
 ---
+
+### 🇬🇧 In Short
+I'm a student from Malang, Indonesia, interested in applied sociology, community-centered public policy, and field observation methods. My main project looks at the daily realities of angkot (shared minibus) drivers in Malang and what they reveal about urban mobility. I work with informed consent, adult supervision, and full anonymity for the people I interview. Feedback is very welcome.
+
+---
+
+### 📬 Diskusi dan Kolaborasi
+Saya terbuka untuk masukan, diskusi, dan kolaborasi belajar.
+Silakan kirim pesan lewat **[formulir kontak di situs portofolio](https://rifatiwansyah.lovable.app)**.
+
+📍 Malang, Indonesia
+
+---
+
 <p align="center">
-  <sub>Repositori profil ini dikelola secara terbuka untuk menjaga transparansi dan otentisitas jejak riset sejak bangku sekolah.</sub>
+  <sub>Repositori ini dikelola terbuka untuk menjaga transparansi jejak riset. Terbuka untuk didiskusikan dan dikritik.</sub>
 </p>
