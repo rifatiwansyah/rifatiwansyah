@@ -2,26 +2,28 @@
 
 > *"Mendengar sebelum menilai. Memahami sebelum merancang solusi."*
 
-Pelajar dari Malang, Indonesia, yang tertarik pada **sosiologi terapan**, **kebijakan publik berbasis warga**, dan **observasi lapangan**. Saya mengarsipkan catatan riset dan proses belajar saya secara terbuka agar bisa dibaca, dikritik, dan diperbaiki.
+Pelajar dan peneliti muda dari Malang, Indonesia, yang berfokus pada **sosiologi perkotaan**, **kebijakan transportasi publik informal**, dan **metodologi observasi lapangan**. Saya mengarsipkan catatan riset dan proses belajar secara terbuka untuk mendorong transparansi jejak telaah ilmiah.
 
-🌐 **Portofolio:** [rifatiwansyah.lovable.app](https://rifatiwansyah.lovable.app)
+🌐 **Portofolio Riset:** [rifatiwansyah.lovable.app](https://rifatiwansyah.lovable.app)
 
-### 🔎 Fokus
-- 🚍 Mobilitas kota dan angkot Malang
-- 👥 Sosiologi ruang kota: pasar tradisional dan komunitas warga
-- 📊 Etika riset terbuka dan anonimitas narasumber
+### 🔎 Fokus Telaah
+- 🚍 **Mobilitas Kota & Sektor Informal:** Dinamika transisi armada mikrolet (angkot) di Malang Raya.
+- 👥 **Sosiologi Ruang Publik:** Interaksi sosial di pasar tradisional dan ruang bertahan komunitas rentan.
+- 📊 **Etika & Metodologi Kualitatif:** Analisis tematik refleksif, protokol anonimitas narasumber, dan riset terbuka (*open research*).
 
-### 📝 Karya Utama
-**Dilema Jalur Mikro: Bertahan di Balik Kemudi Angkot Malang**
-[tulis satu kalimat temuan utama] · [Baca studi kasus](https://rifatiwansyah.lovable.app)
+### 📝 Catatan Riset Utama
+**Dilema Jalur Mikro: Bertahan di Balik Kemudi Angkot Malang**  
+*Menganalisis asimetri risiko finansial yang ditanggung mandiri oleh sopir dan pemilik armada mikro di tengah ketiadaan skema subsidi kota.*  
+👉 [Baca lembar studi kasus lengkap](https://rifatiwansyah.lovable.app/catatan/senjakala-angkot-malang)
 
-### 🧭 Etika
-Riset dilakukan dengan pendampingan orang dewasa dan persetujuan narasumber. Tidak ada nama, wajah, atau plat nomor yang dipublikasikan.
+### 🧭 Protokol Etika & Privasi
+Seluruh penelitian lapangan dilakukan dengan pendampingan orang tua/wali serta persetujuan sadar (*informed consent*) dari narasumber. Seluruh identitas informan, nomor plat kendaraan, dan dokumentasi visual telah disamarkan demi menjamin privasi narasumber di ranah publik.
 
-### 📬 Kontak
-Terbuka untuk masukan dan diskusi. Silakan kirim pesan lewat [formulir di situs portofolio](https://rifatiwansyah.lovable.app).
+### 📬 Ruang Diskusi & Kontak
+Terbuka untuk kritik naskah, bimbingan metodologi, atau diskusi kebijakan publik. Untuk menjaga keamanan komunikasi, silakan hubungi saya melalui formulir aman di situs:  
+👉 [Kirim Pesan via Formulir Riset](https://rifatiwansyah.lovable.app/kontak)
 
-📍 Malang, Indonesia
+📍 *Malang, Jawa Timur, Indonesia*
 
 ---
 
@@ -29,26 +31,28 @@ Terbuka untuk masukan dan diskusi. Silakan kirim pesan lewat [formulir di situs 
 
 > *"Listen before judging. Understand before designing solutions."*
 
-A student from Malang, Indonesia, interested in **applied sociology**, **community-centered public policy**, and **field observation methods**. I archive my research notes and learning process openly so they can be read, challenged, and improved.
+A student researcher from Malang, Indonesia, investigating **urban sociology**, **informal transit transitions**, and **grounded ethnographic fieldwork**. I openly document my research notes and analytical workflows to foster scholarly transparency and intellectual dialogue.
 
-🌐 **Portfolio:** [rifatiwansyah.lovable.app](https://rifatiwansyah.lovable.app)
+🌐 **Research Portfolio:** [rifatiwansyah.lovable.app](https://rifatiwansyah.lovable.app)
 
-### 🔎 Focus
-- 🚍 Urban mobility and angkot (shared minibuses) in Malang
-- 👥 Urban sociology: traditional markets and community life
-- 📊 Open research ethics and interviewee anonymity
+### 🔎 Research Inquiries
+- 🚍 **Informal Transit & Labor Vulnerability:** Economic friction and systemic displacement within Malang's *angkot* (microbus) ecosystem.
+- 👥 **Urban Spatial Sociology:** Lived realities and survival strategies across traditional marketplaces and community hubs.
+- 📊 **Qualitative Rigor & Ethics:** Reflexive thematic analysis, ethical anonymization protocols, and open inquiry methods.
 
-### 📝 Main Work
-**The Micro-Route Dilemma: Holding On Behind the Wheel of Malang's Angkot**
-[write one sentence on the key finding] · [Read the case study](https://rifatiwansyah.lovable.app)
+### 📝 Featured Case Study
+**The Micro-Route Dilemma: Holding On Behind the Wheel of Malang's Angkot**  
+*Unpacking how structural risk asymmetries shift fuel devaluation and maintenance burdens directly onto informal drivers amid municipal policy gaps.*  
+👉 [Read the complete empirical inquiry](https://rifatiwansyah.lovable.app/catatan/senjakala-angkot-malang)
 
-### 🧭 Ethics
-Research is carried out with adult supervision and informed consent. No names, faces, or license plates are ever published.
+### 🧭 Ethics & Safeguarding Commitment
+All fieldwork is conducted under adult supervision with verifiable informed consent. Informant identifiers, vehicle registration details, and identifiable photography are strictly anonymized in compliance with institutional qualitative safeguards.
 
-### 📬 Contact
-Open to feedback and discussion. Please send a message through the [form on my portfolio site](https://rifatiwansyah.lovable.app).
+### 📬 Academic Inquiries & Contact
+I welcome critical peer feedback, methodological mentorship, and public policy discourse. To maintain secure communications, please reach out via my dedicated portal:  
+👉 [Send an Inquiry via Portfolio Form](https://rifatiwansyah.lovable.app/kontak)
 
-📍 Malang, Indonesia
+📍 *Malang, East Java, Indonesia*
 
 ---
 
